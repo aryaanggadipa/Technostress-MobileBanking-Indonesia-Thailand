@@ -1,0 +1,1 @@
+# Technostress-MobileBanking-Indonesia-Thailand
