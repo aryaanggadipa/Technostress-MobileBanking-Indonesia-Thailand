@@ -3,7 +3,7 @@
 
 This repository contains the source code for my undergraduate thesis, which analyzes user reviews of **Livin' by Mandiri (Indonesia)** and **K PLUS (Thailand)** to identify the factors that contribute to **technostress** in mobile banking applications.
 
-The study combines **Aspect-Based Sentiment Analysis (ABSA)**, **Support Vector Machine (SVM)**, and **Latent Dirichlet Allocation (LDA)** to extract user sentiments, identify service aspects, and discover the underlying topics that trigger negative user experiences.
+The study combines **Aspect-Based Sentiment Analysis (ABSA)** and **Latent Dirichlet Allocation (LDA)** to extract user sentiments, identify service aspects, and discover the underlying topics that trigger negative user experiences.
 
 ---
 
