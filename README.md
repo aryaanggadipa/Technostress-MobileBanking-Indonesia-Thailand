@@ -1,5 +1,5 @@
 # Comparative Analysis of Technostress Factors in Mobile Banking Reviews Using Aspect-Based Sentiment Analysis and Topic Modeling
-![Research Workflow](images/graphical_abstract.png)
+<!-- ![Research Workflow](images/graphical_abstract.png) -->
 
 This repository contains the source code for my undergraduate thesis, which analyzes user reviews of **Livin' by Mandiri (Indonesia)** and **K PLUS (Thailand)** to identify the factors that contribute to **technostress** in mobile banking applications.
 
